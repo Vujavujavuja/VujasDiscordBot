@@ -1,0 +1,5 @@
+discord.py[voice]
+python-dotenv
+requests
+fuzzywuzzy
+python-Levenshtein
