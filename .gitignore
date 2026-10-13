@@ -1,0 +1,17 @@
+# Music library is local only, never committed
+mp3s/*
+!mp3s/.gitkeep
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
